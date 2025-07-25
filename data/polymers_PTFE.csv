@@ -1,0 +1,413 @@
+Product_Name,Grade,Generic_Polymer_Type,Generic_Polymer_Symbol,Density_g/cm^3,Polymer_Code,Tensile_Strength_at_Yield_MPa,Melting_Temperature_°C,Flexural_Modulus_MPa,Flexural_Strength_MPa,Tensile_Modulus_MPa,Tensile_Strength_at_Break_MPa,Tensile_Elongation_at_Yield_%_strain,Tensile_Elongation_at_Break_%_strain,Izod_Notched_Impact_23°C_kJ/m^2,Hardness_Rockwell_R,Hardness_Shore_D
+Fluoraz,799,Polytetrafluoroethylene,PTFE,1.65,PTFE,,,,,,,,,,,
+Chemraz,510,Polytetrafluoroethylene,PTFE,1.92,PTFE,,,,,,,,,,,
+Flontech®,FLON-5110,Polytetrafluoroethylene,PTFE,2.09,PTFE,,,,,,,,280.0,,,62.0
+Flontech®,FT-1-10,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,350.0,,,54.0
+Flontech®,FT-1-1O,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,340.0,,,55.0
+Flontech®,FT-1-FM-3,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,460.0,,,54.0
+Flontech®,FT-1-GRN,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,350.0,,,55.0
+Flontech®,FT-905-DL,Polytetrafluoroethylene,PTFE,,PTFE,,335.0,,,,,,,,,
+Flontech®,FT-905-RSC,Polytetrafluoroethylene,PTFE,,PTFE,,323.0,,,,,,,,,
+Flontech®,FT-905-RSH,Polytetrafluoroethylene,PTFE,,PTFE,,323.0,,,,,,,,,
+Flontech®,FT-915-RSL,Polytetrafluoroethylene,PTFE,,PTFE,,334.0,,,,,,,,,
+Flontech®,FT-BRR40-2,Polytetrafluoroethylene,PTFE,3.08,PTFE-Me40,,,,,,,,240.0,,,62.0
+Flontech®,FT-BRR40-GRN-1,Polytetrafluoroethylene,PTFE,3.15,PTFE-(Me+MD)40,,,,,,,,280.0,,,62.0
+Flontech®,FT-BRR60-1,Polytetrafluoroethylene,PTFE,3.95,PTFE-Me60,,,,,,,,220.0,,,66.0
+Flontech®,FT-CAR23-GR2-3,Polytetrafluoroethylene,PTFE,2.06,PTFE-CF25,,,,,,,,70.0,,,61.0
+Flontech®,FT-CAR9-GR1-1,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF10,,,,,,,,260.0,,,60.0
+Flontech®,FT-COND2-1,Polytetrafluoroethylene,PTFE,2.15,PTFE-CF5,,,,,,,,290.0,,,55.0
+Flontech®,FT-COND-3,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF5,,,,,,,,270.0,,,55.0
+Flontech®,FT-EK5-CF5-1,Polytetrafluoroethylene,PTFE,2.07,PTFE-(CF+PUF)10,,,,,,,,280.0,,,57.0
+Flontech®,FT-GL15-M3-3,Polytetrafluoroethylene,PTFE,2.27,PTFE-GF15-L,,,,,,,,240.0,,,59.0
+Flontech®,FT-GL20-GR5-1,Polytetrafluoroethylene,PTFE,2.23,PTFE-(CF+GF)25,,,,,,,,240.0,,,58.0
+Flontech®,FT-GL25-NPA-6,Polytetrafluoroethylene,PTFE,2.26,PTFE-(GF+MD)25,,,,,,,,190.0,,,59.0
+Flontech®,FT-M02-2,Polytetrafluoroethylene,PTFE,2.18,PTFE-L,,,,,,,,340.0,,,55.0
+Flontech®,FT-PI15-3,Polytetrafluoroethylene,PTFE,1.96,PTFE-PI15,,,,,,,,210.0,,,59.0
+Exac,PTFE (MOLDED),Polytetrafluoroethylene,PTFE,2.16,PTFE,19.0,,621.0,,552.0,,200.0,,15.686274509803923,,58.0
+Rulon®,1045,Polytetrafluoroethylene,PTFE,2.1,PTFE,,,,,,,,450.0,,,
+Rulon®,1439,Polytetrafluoroethylene,PTFE,2.59,PTFE,,,,,,,,190.0,,,
+Rulon®,W2,Polytetrafluoroethylene,PTFE,2.09,PTFE,,,,,,,,70.0,,,
+Fluoroloy®,A30,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,427.0,,,220.0,,,60.0
+Algoflon®,L206 R,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Arlon®,25FR,Polytetrafluoroethylene,PTFE,1.8,PTFE-(GF+MD),,,,241.0,,,,,,,
+Arlon®,AD250,Polytetrafluoroethylene,PTFE,2.4,PTFE-GF,,,3720.0,,4870.0,,,,,,
+Arlon®,AD270,Polytetrafluoroethylene,PTFE,2.4,PTFE-GF,,,3720.0,,4870.0,,,,,,
+Fluon®,PTFE G163,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,350.0,,,
+Fluon®,PTFE G201,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,250.0,,,
+Fluon®,PTFE G307,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,350.0,,,
+Fluon®,PTFE PA1020Z,Polytetrafluoroethylene,PTFE,2.22,PTFE-GF20,,,,,,,,320.0,,,
+Fluon®,PTFE PA3540LT,Polytetrafluoroethylene,PTFE,2.65,PTFE-(CF+Me)40,,,,,,,,230.0,,,
+Fluon®,PTFE PA7115,Polytetrafluoroethylene,PTFE,1.96,PTFE-PI15,,,,,,,,320.0,,,
+Fluon®,PTFE PB2015,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF15,,,,,,,,170.0,,,
+Fluon®,PTFE PB2510,Polytetrafluoroethylene,PTFE,2.08,PTFE-CF10,,,,,,,,250.0,,,
+Fluon®,PTFE PB3060,Polytetrafluoroethylene,PTFE,3.87,PTFE-Me60,,,,,,,,260.0,,,
+Fluon®,PTFE RB1015S,Polytetrafluoroethylene,PTFE,2.21,PTFE-GF15,,,,,,,,310.0,,,
+Dynaglide®,DW 602GN,Polytetrafluoroethylene,PTFE,2.12,PTFE-GF,,,,,,,,150.0,,,
+Dynaglide®,DW 611,Polytetrafluoroethylene,PTFE,2.1,PTFE-CF,,,,,,,,70.0,,,
+DeWAL,DW 211,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 213,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 216,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-711,Polytetrafluoroethylene,PTFE,1.52,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE F-104C,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,410.0,,,
+POLYFLON™,PTFE F-106,Polytetrafluoroethylene,PTFE,2.15,PTFE,,327.0,,,,,,,,,
+POLYFLON™,PTFE F-201,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,480.0,,,
+POLYFLON™,PTFE F-205,Polytetrafluoroethylene,PTFE,2.16,PTFE,,325.0,,,,,,400.0,,,
+POLYFLON™,PTFE F-303,Polytetrafluoroethylene,PTFE,2.14,PTFE,,325.0,,,,,,410.0,,,
+3M™ Dyneon™ TFM™,1600,Polytetrafluoroethylene,PTFE,2.16,PTFE,,317.0,,,650.0,,,450.0,,,
+3M™ Dyneon™ PTFE,TF 1750,Polytetrafluoroethylene,PTFE,2.16,PTFE,,317.0,,,600.0,,,350.0,,,
+3M™ Dyneon™ PTFE,TF 2029 Z,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,,,,
+Semitron®,ESd 500 HR PTFE,Polytetrafluoroethylene,PTFE,2.29,PTFE,,327.0,2410.0,14.0,1450.0,,4.0,50.0,5.196078431372549,50.0,
+Fluorosint®,HPV PTFE,Polytetrafluoroethylene,PTFE,2.05,PTFE,,327.0,1140.0,18.0,1200.0,,6.0,50.0,9.411764705882353,45.0,
+Teflon® PTFE,60 X,Polytetrafluoroethylene,PTFE,2.18,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,62XT X,Polytetrafluoroethylene,PTFE,2.15,PTFE,,323.0,,,,,,,,,
+Teflon® PTFE,641XT X,Polytetrafluoroethylene,PTFE,2.17,PTFE,,326.0,,,,,,,,,
+Teflon® PTFE,669 X,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,6C X,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,7A X,Polytetrafluoroethylene,PTFE,2.15,PTFE,,322.0,,,,,,380.0,,,
+Teflon® PTFE,7C X,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,350.0,,,
+Uniflon,COMP LUB,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Uniflon,GM 100,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,,,,55.0
+Uniflon,UNILUB 5,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Fluoroplex,COMP 401 - GMP,Polytetrafluoroethylene,PTFE,3.12,PTFE,,,,,,,,,,,65.0
+Fluoroplex,G 15 - GML,Polytetrafluoroethylene,PTFE,2.15,PTFE-CD15,,,,,,,,,,,60.0
+Fluoroplex,G 303 - GMF,Polytetrafluoroethylene,PTFE,2.11,PTFE,,,,,,,,,,,63.0
+Miflon®,2122B,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,250.0,,,
+Miflon®,3123,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3223,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,5111,Polytetrafluoroethylene,PTFE,1.5,PTFE,,,,,,,,,,,
+Avalon,01,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,430.0,,,60.0
+Avalon,16,Polytetrafluoroethylene,PTFE,2.26,PTFE-GF-L,,,,,,,,250.0,,,62.0
+Avalon,50,Polytetrafluoroethylene,PTFE,2.0,PTFE-PUF,,,,,,,,300.0,,,
+Flontech®,FLON-0122-6,Polytetrafluoroethylene,PTFE,1.93,PTFE-NX20,,,,,,,,250.0,,,54.0
+Flontech®,FLON-1408-1,Polytetrafluoroethylene,PTFE,1.85,PTFE,,,,,,,,200.0,,,61.0
+Flontech®,FT-1-1E,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,240.0,,,54.0
+Flontech®,FT-1-5,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,270.0,,,54.0
+Flontech®,FT-1-8,Polytetrafluoroethylene,PTFE,2.14,PTFE,,,,,,,,140.0,,,55.0
+Flontech®,FT-1-FM-2,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,470.0,,,54.0
+Flontech®,FT-905-SH,Polytetrafluoroethylene,PTFE,,PTFE,,325.0,,,,,,,,,
+Flontech®,FT-910-ST,Polytetrafluoroethylene,PTFE,,PTFE,,333.0,,,,,,,,,
+Flontech®,FT-915-RST,Polytetrafluoroethylene,PTFE,,PTFE,,331.0,,,,,,,,,
+Flontech®,FT-BRR40-3,Polytetrafluoroethylene,PTFE,3.1,PTFE-Me40,,,,,,,,220.0,,,63.0
+Flontech®,FT-BRR40-6,Polytetrafluoroethylene,PTFE,3.1,PTFE-Me40,,,,,,,,180.0,,,63.0
+Flontech®,FT-BRR40-M5-3,Polytetrafluoroethylene,PTFE,3.18,PTFE-Me40-L,,,,,,,,200.0,,,63.0
+Flontech®,FT-BRR55-M5-1,Polytetrafluoroethylene,PTFE,3.84,PTFE-Me55-L,,,,,,,,130.0,,,68.0
+Flontech®,FT-CAF30-1,Polytetrafluoroethylene,PTFE,2.4,PTFE-MD30,,,,,,,,180.0,,,60.0
+Flontech®,FT-CAR15-8,Polytetrafluoroethylene,PTFE,2.1,PTFE-CF20,,,,,,,,50.0,,,63.0
+Flontech®,FT-CAR23-GR2-1,Polytetrafluoroethylene,PTFE,2.06,PTFE-CF25,,,,,,,,150.0,,,61.0
+Flontech®,FT-CAR33-GR2-1,Polytetrafluoroethylene,PTFE,2.03,PTFE-CF35,,,,,,,,50.0,,,65.0
+Flontech®,FT-CAR33-GR2-6,Polytetrafluoroethylene,PTFE,2.03,PTFE-CF35,,,,,,,,30.0,,,65.0
+Flontech®,FT-CARR25-3,Polytetrafluoroethylene,PTFE,2.09,PTFE-CF25,,,,,,,,160.0,,,62.0
+Flontech®,FT-CARR25-FM-3,Polytetrafluoroethylene,PTFE,2.12,PTFE-CF25,,,,,,,,30.0,,,60.0
+Flontech®,FT-CF25-1,Polytetrafluoroethylene,PTFE,2.03,PTFE-CF25,,,,,,,,170.0,,,65.0
+Flontech®,FT-COND2-2,Polytetrafluoroethylene,PTFE,2.15,PTFE-CF5,,,,,,,,280.0,,,55.0
+Flontech®,FT-COND2-3,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF5,,,,,,,,270.0,,,55.0
+Flontech®,FT-COND2-6,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF5,,,,,,,,250.0,,,55.0
+Flontech®,FT-EK10-3,Polytetrafluoroethylene,PTFE,2.05,PTFE-PUF10,,,,,,,,270.0,,,58.0
+Flontech®,FT-EK20-1,Polytetrafluoroethylene,PTFE,1.96,PTFE-PUF20,,,,,,,,260.0,,,62.0
+Flontech®,FT-EK5-CF5-6,Polytetrafluoroethylene,PTFE,2.06,PTFE-(CF+PUF)10,,,,,,,,270.0,,,57.0
+Flontech®,FT-GL15-M3-1,Polytetrafluoroethylene,PTFE,2.28,PTFE-GF15-L,,,,,,,,260.0,,,59.0
+Flontech®,FT-GL15-M3-6,Polytetrafluoroethylene,PTFE,2.27,PTFE-GF15-L,,,,,,,,220.0,,,59.0
+Flontech®,FT-GL15-M5-1,Polytetrafluoroethylene,PTFE,2.29,PTFE-GF15-L,,,,,,,,240.0,,,59.0
+Flontech®,FT-GL25-8,Polytetrafluoroethylene,PTFE,2.24,PTFE-GF20,,,,,,,,180.0,,,57.0
+Flontech®,FT-GL5-M5-1,Polytetrafluoroethylene,PTFE,3.2,PTFE-Me40-L,,,,,,,,220.0,,,63.0
+Flontech®,FT-M01-1,Polytetrafluoroethylene,PTFE,2.18,PTFE-L,,,,,,,,350.0,,,55.0
+Flontech®,FT-PPTA20-1,Polytetrafluoroethylene,PTFE,1.93,PTFE-RF20,,,,,,,,200.0,,,58.0
+Flontech®,FT-STST50-6,Polytetrafluoroethylene,PTFE,3.28,PTFE-Me50,,,,,,,,160.0,,,61.0
+Flontech®,FT-WM20-1,Polytetrafluoroethylene,PTFE,2.34,PTFE-MD20,,,,,,,,200.0,,,60.0
+Exac,PTFE,Polytetrafluoroethylene,PTFE,2.16,PTFE,19.0,,621.0,,552.0,,200.0,,15.686274509803923,,58.0
+Rulon®,XL,Polytetrafluoroethylene,PTFE,1.97,PTFE,,,,,,,,160.0,,,
+Polymist®,F284 R,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Fluon®,PTFE CD126E,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,,,,
+Fluon®,PTFE CD145E,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,,,,
+Fluon®,PTFE RB2515,Polytetrafluoroethylene,PTFE,2.04,PTFE-CF15,,,,,,,,280.0,,,
+Dynaglide®,DW 646,Polytetrafluoroethylene,PTFE,2.09,PTFE-X,,,,,,,,300.0,,,
+DeWAL,DW 203,Polytetrafluoroethylene,PTFE,1.5,PTFE,,,,,,,,,,,
+DeWAL,DW 502,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-110,Polytetrafluoroethylene,PTFE,1.52,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-310,Polytetrafluoroethylene,PTFE,1.52,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE F-208,Polytetrafluoroethylene,PTFE,2.16,PTFE,,325.0,,,,,,560.0,,,
+POLYFLON™,PTFE M-111,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,500.0,,,
+POLYFLON™,PTFE M-12,Polytetrafluoroethylene,PTFE,2.14,PTFE,,,,,,,,400.0,,,
+POLYFLON™,PTFE M-18,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,380.0,,,
+3M™ Dyneon™ PTFE,TF 2025 Z,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+3M™ Dyneon™ PTFE,TF 2073 Z,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,,,,
+Fluorosint®,135 PTFE,Polytetrafluoroethylene,PTFE,1.91,PTFE,3.0,330.0,2070.0,17.2,1240.0,3.0,2.6,4.7,2.647058823529412,67.0,
+Fluorosint®,500 PTFE,Polytetrafluoroethylene,PTFE,2.31,PTFE,,327.0,3450.0,13.0,1750.0,,5.0,15.0,4.705882352941177,55.0,
+Fluorosint®,MT-01 PTFE,Polytetrafluoroethylene,PTFE,2.26,PTFE,6.0,327.0,3340.0,20.0,1900.0,20.0,30.0,40.0,,74.0,
+Teflon® PTFE,613A X,Polytetrafluoroethylene,PTFE,2.15,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,640XT X,Polytetrafluoroethylene,PTFE,2.15,PTFE,,326.0,,,,,,,,,
+Teflon® PTFE,650XT X,Polytetrafluoroethylene,PTFE,2.16,PTFE,,326.0,,,,,,,,,
+Teflon® PTFE,8A X,Polytetrafluoroethylene,PTFE,2.14,PTFE,,,,,,,,330.0,,,
+Teflon® PTFE,NXT 70,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,550.0,,,
+Uniflon,COMP 30 VX - GML,Polytetrafluoroethylene,PTFE,2.23,PTFE,,,,,,,,,,,61.0
+Uniflon,HIPERCONDUX 9 - GMP,Polytetrafluoroethylene,PTFE,2.03,PTFE,,,,,,,,,,,61.0
+Supering,RP 520 - GMP,Polytetrafluoroethylene,PTFE,1.91,PTFE,,,,,,,,,,,64.0
+Supering,RP 525 - GMP,Polytetrafluoroethylene,PTFE,1.99,PTFE,,,,,,,,,,,61.0
+Fluorosite,600 - GML,Polytetrafluoroethylene,PTFE,3.1,PTFE,,,,,,,,,,,65.0
+Fluoroplex,1500 - GMF,Polytetrafluoroethylene,PTFE,2.11,PTFE,,,,,,,,,,,63.0
+Fluoroplex,B 60 - GMA,Polytetrafluoroethylene,PTFE,3.8,PTFE-Me60,,,,,,,,,,,69.0
+Fluoroplex,CG 35 - GML,Polytetrafluoroethylene,PTFE,1.99,PTFE-CD35,,,,,,,,,,,65.0
+Fluoroplex,CG 35 - GMP,Polytetrafluoroethylene,PTFE,1.99,PTFE-CD35,,,,,,,,,,,65.0
+Fluoroplex,F 15 - GMF,Polytetrafluoroethylene,PTFE,2.19,PTFE-GF15,,,,,,,,,,,60.0
+Fluoroplex,F 15 AZ 02 - GMP,Polytetrafluoroethylene,PTFE,2.2,PTFE-GF15,,,,,,,,,,,60.0
+Fluoroplex,MF 515 - GMP,Polytetrafluoroethylene,PTFE,2.24,PTFE-GF15-L,,,,,,,,,,,63.0
+Miflon®,2111B,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,300.0,,,
+Miflon®,3031,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,300.0,,,
+Miflon®,3112,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3122,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3213,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3214,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3222,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Chemraz,505,Polytetrafluoroethylene,PTFE,1.93,PTFE,,,,,,,,,,,
+Avalon,57,Polytetrafluoroethylene,PTFE,2.01,PTFE-X,,,,,,,,300.0,,,
+Flontech®,FLON-5112-1,Polytetrafluoroethylene,PTFE,3.28,PTFE-(Me+MD)45,,,,,,,,250.0,,,62.0
+Flontech®,FLON-5117-1,Polytetrafluoroethylene,PTFE,3.18,PTFE-(Me+MD)45,,,,,,,,270.0,,,61.0
+Flontech®,FT-1-2,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,300.0,,,55.0
+Flontech®,FT-1-BLU2-FM-6,Polytetrafluoroethylene,PTFE,2.19,PTFE-MD,,,,,,,,450.0,,,55.0
+Flontech®,FT-1-FM-1,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,470.0,,,54.0
+Flontech®,FT-1-FM-5,Polytetrafluoroethylene,PTFE,2.19,PTFE,,,,,,,,400.0,,,54.0
+Flontech®,FT-1-FM-6,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,450.0,,,54.0
+Flontech®,FT-1-TUR-6,Polytetrafluoroethylene,PTFE,2.19,PTFE,,,,,,,,320.0,,,54.0
+Flontech®,FT-900-D,Polytetrafluoroethylene,PTFE,,PTFE,,343.0,,,,,,,,,
+Flontech®,FT-901-D,Polytetrafluoroethylene,PTFE,,PTFE,,340.0,,,,,,,,,
+Flontech®,FT-903-ST,Polytetrafluoroethylene,PTFE,,PTFE,,333.0,,,,,,,,,
+Flontech®,FT-910-SH,Polytetrafluoroethylene,PTFE,,PTFE,,325.0,,,,,,,,,
+Flontech®,FT-915-ST,Polytetrafluoroethylene,PTFE,,PTFE,,333.0,,,,,,,,,
+Flontech®,FT-BRR25-CF10-M5-1,Polytetrafluoroethylene,PTFE,2.64,PTFE-(CF+Me)35-L,,,,,,,,250.0,,,60.0
+Flontech®,FT-BRR30-8,Polytetrafluoroethylene,PTFE,2.84,PTFE-Me30,,,,,,,,180.0,,,58.0
+Flontech®,FT-BRR40-1,Polytetrafluoroethylene,PTFE,3.1,PTFE-Me40,,,,,,,,280.0,,,63.0
+Flontech®,FT-BRR60-3,Polytetrafluoroethylene,PTFE,3.9,PTFE-Me60,,,,,,,,150.0,,,65.0
+Flontech®,FT-CAR13-GR2-1,Polytetrafluoroethylene,PTFE,2.15,PTFE-CF15,,,,,,,,220.0,,,59.0
+Flontech®,FT-CARR15-6,Polytetrafluoroethylene,PTFE,2.13,PTFE-CF15,,,,,,,,200.0,,,60.0
+Flontech®,FT-CF10-3,Polytetrafluoroethylene,PTFE,2.08,PTFE-CF10,,,,,,,,180.0,,,60.0
+Flontech®,FT-CF15-6,Polytetrafluoroethylene,PTFE,2.05,PTFE-GF15,,,,,,,,170.0,,,61.0
+Flontech®,FT-COND-6,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF5,,,,,,,,250.0,,,55.0
+Flontech®,FT-EK10-6,Polytetrafluoroethylene,PTFE,2.05,PTFE-PUF10,,,,,,,,260.0,,,58.0
+Flontech®,FT-GL15-GR5-6,Polytetrafluoroethylene,PTFE,2.2,PTFE-(CF+GF)20,,,,,,,,230.0,,,59.0
+Flontech®,FT-GL15-M5-6,Polytetrafluoroethylene,PTFE,2.28,PTFE-GF15-L,,,,,,,,210.0,,,58.0
+Flontech®,FT-GL25-3,Polytetrafluoroethylene,PTFE,2.22,PTFE-GF25,,,,,,,,240.0,,,60.0
+Flontech®,FT-GL40-1,Polytetrafluoroethylene,PTFE,2.28,PTFE-GF40,,,,,,,,140.0,,,62.0
+Flontech®,FT-GL5-3,Polytetrafluoroethylene,PTFE,2.19,PTFE-GF5,,,,,,,,310.0,,,57.0
+Flontech®,FT-PI20-6,Polytetrafluoroethylene,PTFE,1.9,PTFE-PI20,,,,,,,,190.0,,,60.0
+Flontech®,FT-STST50-3,Polytetrafluoroethylene,PTFE,3.29,PTFE-Me50,,,,,,,,180.0,,,62.0
+Exac,PTFE (EXTRUDED),Polytetrafluoroethylene,PTFE,2.16,PTFE,19.0,,621.0,,552.0,,200.0,,15.686274509803923,,58.0
+Polymist®,F5A EX R,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Polymist®,XPP 511 R,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Arlon®,AD350,Polytetrafluoroethylene,PTFE,2.4,PTFE-GF,,,3720.0,,4870.0,,,,,,
+Fluon®,PTFE PA1025Z,Polytetrafluoroethylene,PTFE,2.23,PTFE-GF25,,,,,,,,290.0,,,
+Fluon®,PTFE RA3540,Polytetrafluoroethylene,PTFE,2.64,PTFE-(CF+Me)40,,,,,,,,350.0,,,
+Fluon®,PTFE RB2510,Polytetrafluoroethylene,PTFE,2.08,PTFE-CF10,,,,,,,,310.0,,,
+Dynaglide®,DW 631,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 200,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 2000,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 202,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 220,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 222,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 232 P,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE F-107,Polytetrafluoroethylene,PTFE,2.14,PTFE,,327.0,,,,,,350.0,,,
+POLYFLON™,PTFE F-121,Polytetrafluoroethylene,PTFE,2.13,PTFE,,327.0,,,,,,,,,
+POLYFLON™,PTFE F-208H,Polytetrafluoroethylene,PTFE,2.16,PTFE,,325.0,,,,,,570.0,,,
+POLYFLON™,PTFE F-302,Polytetrafluoroethylene,PTFE,2.15,PTFE,,325.0,,,,,,450.0,,,
+POLYFLON™,PTFE M-18F,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,440.0,,,
+POLYFLON™,PTFE M-532,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,350.0,,,
+3M™ Dyneon™ TFM™,2001 Z,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,,,,
+3M™ Dyneon™ PTFE,TF 1620,Polytetrafluoroethylene,PTFE,2.15,PTFE,,317.0,,,600.0,,,350.0,,,
+3M™ Dyneon™ PTFE,TF 1645,Polytetrafluoroethylene,PTFE,2.15,PTFE,,317.0,,,600.0,,,350.0,,,
+3M™ Dyneon™ PTFE,TF 2072 Z,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,,,,
+Teflon® PTFE,601 X,Polytetrafluoroethylene,PTFE,2.15,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,62 X,Polytetrafluoroethylene,PTFE,2.14,PTFE,,322.0,,,,,,,,,
+Teflon® PTFE,62N X,Polytetrafluoroethylene,PTFE,2.14,PTFE,,322.0,,,,,,,,,
+Uniflon,COMP L ADVANCED - GMF,Polytetrafluoroethylene,PTFE,2.19,PTFE,,,,,,,,,,,64.0
+Fluorosite,300 - GML,Polytetrafluoroethylene,PTFE,3.1,PTFE,,,,,,,,,,,65.0
+Fluoroplex,APA - GMP,Polytetrafluoroethylene,PTFE,2.06,PTFE,,,,,,,,,,,58.0
+Fluoroplex,B 40 - GMA,Polytetrafluoroethylene,PTFE,3.06,PTFE-Me40,,,,,,,,,,,65.0
+Fluoroplex,B 40 - GML,Polytetrafluoroethylene,PTFE,3.06,PTFE-Me40,,,,,,,,,,,65.0
+Fluoroplex,F 25 - GML,Polytetrafluoroethylene,PTFE,2.23,PTFE-GF25,,,,,,,,,,,61.0
+Fluoroplex,F 25 - GMP,Polytetrafluoroethylene,PTFE,2.23,PTFE-GF25,,,,,,,,,,,61.0
+Fluoroplex,F 30 - GML,Polytetrafluoroethylene,PTFE,2.24,PTFE-GF30,,,,,,,,,,,62.0
+Fluoroplex,G 15 - GMA,Polytetrafluoroethylene,PTFE,2.15,PTFE-CD15,,,,,,,,,,,60.0
+Fluoroplex,MF 515 - GMF,Polytetrafluoroethylene,PTFE,2.24,PTFE-GF15-L,,,,,,,,,,,61.0
+Fluoroplex,MF 515 - GML,Polytetrafluoroethylene,PTFE,2.24,PTFE-GF15-L,,,,,,,,,,,61.0
+Fluoroplex,R 25 - GML,Polytetrafluoroethylene,PTFE,2.11,PTFE-CF25,,,,,,,,,,,63.0
+Miflon®,2333B,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,200.0,,,
+Miflon®,3021,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,300.0,,,
+Miflon®,3124,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3131,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,300.0,,,
+Avalon,11,Polytetrafluoroethylene,PTFE,2.04,PTFE-CF,14.5,,,,,,180.0,,,,
+Avalon,14,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,370.0,,,60.0
+Avalon,44,Polytetrafluoroethylene,PTFE,2.24,PTFE-MD-L,,,,,,,,400.0,,,
+Avalon,87WS,Polytetrafluoroethylene,PTFE,2.16,PTFE-GF,,,,,,20.7,,350.0,,,58.0
+Flontech®,FT-1-6,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,280.0,,,55.0
+Flontech®,FT-930-RST,Polytetrafluoroethylene,PTFE,,PTFE,,331.0,,,,,,,,,
+Flontech®,FT-BRR40-8,Polytetrafluoroethylene,PTFE,3.08,PTFE-Me40,,,,,,,,170.0,,,59.0
+Flontech®,FT-BRR40-M5-1,Polytetrafluoroethylene,PTFE,3.2,PTFE-Me40-L,,,,,,,,220.0,,,63.0
+Flontech®,FT-BRR55-M5-6,Polytetrafluoroethylene,PTFE,3.8,PTFE-Me55-L,,,,,,,,70.0,,,68.0
+Flontech®,FT-BRR60-6,Polytetrafluoroethylene,PTFE,3.85,PTFE-Me60,,,,,,,,130.0,,,64.0
+Flontech®,FT-CAR13-GR2-6,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF15,,,,,,,,190.0,,,59.0
+Flontech®,FT-CAR23-GR2-6,Polytetrafluoroethylene,PTFE,2.06,PTFE-CF25,,,,,,,,60.0,,,61.0
+Flontech®,FT-CARR10-FM-6,Polytetrafluoroethylene,PTFE,2.15,PTFE-CF10,,,,,,,,300.0,,,58.0
+Flontech®,FT-CARR15-1,Polytetrafluoroethylene,PTFE,2.13,PTFE-CF15,,,,,,,,240.0,,,60.0
+Flontech®,FT-CARR25-1,Polytetrafluoroethylene,PTFE,2.09,PTFE-CF25,,,,,,,,180.0,,,62.0
+Flontech®,FT-CARR25-6,Polytetrafluoroethylene,PTFE,2.09,PTFE-CF25,,,,,,,,150.0,,,62.0
+Flontech®,FT-CF25-6,Polytetrafluoroethylene,PTFE,2.02,PTFE-CF25,,,,,,,,140.0,,,62.0
+Flontech®,FT-COND-1,Polytetrafluoroethylene,PTFE,2.15,PTFE-CF5,,,,,,,,290.0,,,55.0
+Flontech®,FT-EK10-1,Polytetrafluoroethylene,PTFE,2.05,PTFE-PUF10,,,,,,,,280.0,,,60.0
+Flontech®,FT-GL15-3,Polytetrafluoroethylene,PTFE,2.21,PTFE-GF15,,,,,,,,270.0,,,57.0
+Flontech®,FT-GL20-6,Polytetrafluoroethylene,PTFE,2.23,PTFE-GF20,,,,,,,,220.0,,,60.0
+Flontech®,FT-GL25-1,Polytetrafluoroethylene,PTFE,2.23,PTFE-GF25,,,,,,,,250.0,,,60.0
+Flontech®,FT-GL25-6,Polytetrafluoroethylene,PTFE,2.22,PTFE-GF25,,,,,,,,230.0,,,60.0
+Flontech®,FT-GL3-3,Polytetrafluoroethylene,PTFE,2.17,PTFE-GF5,,,,,,,,320.0,,,56.0
+Flontech®,FT-GR15-1,Polytetrafluoroethylene,PTFE,2.16,PTFE-CD15,,,,,,,,220.0,,,59.0
+Flontech®,FT-GR15-3,Polytetrafluoroethylene,PTFE,2.16,PTFE-CD15,,,,,,,,150.0,,,58.0
+Flontech®,FT-GR15-6,Polytetrafluoroethylene,PTFE,2.16,PTFE-CD15,,,,,,,,120.0,,,57.0
+Flontech®,FT-M02-1,Polytetrafluoroethylene,PTFE,2.18,PTFE-L,,,,,,,,350.0,,,55.0
+Flontech®,FT-PI15-1,Polytetrafluoroethylene,PTFE,1.97,PTFE-PI15,,,,,,,,240.0,,,60.0
+Flontech®,FT-PI15-6,Polytetrafluoroethylene,PTFE,1.95,PTFE-PI15,,,,,,,,200.0,,,59.0
+Flontech®,FT-RLR-W2-1,Polytetrafluoroethylene,PTFE,2.1,PTFE-(CF+MD)30,,,,,,,,120.0,,,61.0
+Flontech®,FT-T48-3,Polytetrafluoroethylene,PTFE,3.2,PTFE-(Me+MD)45,,,,,,,,220.0,,,63.0
+Chemfluor,PTFE,Polytetrafluoroethylene,PTFE,2.17,PTFE,,327.0,,,,,250.0,,,,58.0
+Rulon®,123,Polytetrafluoroethylene,PTFE,2.09,PTFE,,,,,,,,150.0,,,
+Rulon®,142,Polytetrafluoroethylene,PTFE,3.1,PTFE,,,,,,,,200.0,,,
+Rulon®,LR,Polytetrafluoroethylene,PTFE,2.24,PTFE,,,,,,,,150.0,,,
+Polymist®,F5A R,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Algoflon®,L203 R,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Arlon®,AD255,Polytetrafluoroethylene,PTFE,2.4,PTFE-GF,,,3720.0,,4870.0,,,,,,
+Arlon®,AD320,Polytetrafluoroethylene,PTFE,2.4,PTFE-GF,,,3720.0,,4870.0,,,,,,
+Fluon®,PTFE CD097E,Polytetrafluoroethylene,PTFE,2.18,PTFE,,,,,,,,,,,
+Fluon®,PTFE PB1205,Polytetrafluoroethylene,PTFE,2.2,PTFE-(CF+GF)25,,,,,,,,220.0,,,
+Fluon®,PTFE PB2515,Polytetrafluoroethylene,PTFE,2.02,PTFE-CF15,,,,,,,,190.0,,,
+Fluon®,PTFE PB3360T,Polytetrafluoroethylene,PTFE,3.93,PTFE-Me60,,,,,,,,240.0,,,
+Fluon®,PTFE RA7003,Polytetrafluoroethylene,PTFE,2.12,PTFE-X5,,,,,,,,300.0,,,
+Fluon®,PTFE RB1020S,Polytetrafluoroethylene,PTFE,2.21,PTFE-GF20,,,,,,,,290.0,,,
+Dynaglide®,DW 602,Polytetrafluoroethylene,PTFE,2.12,PTFE-GF,,,,,,,,150.0,,,
+Dynaglide®,DW 612,Polytetrafluoroethylene,PTFE,2.12,PTFE-CF,,,,,,,,150.0,,,
+Dynaglide®,DW 633,Polytetrafluoroethylene,PTFE,1.95,PTFE-X,,,,,,,,150.0,,,
+DeWAL,DW 105,Polytetrafluoroethylene,PTFE,2.12,PTFE-X,,,,,,,,,,,
+POLYFLON™,PTFE D-210,Polytetrafluoroethylene,PTFE,1.51,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-610,Polytetrafluoroethylene,PTFE,1.51,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-610C,Polytetrafluoroethylene,PTFE,1.51,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE M-112,Polytetrafluoroethylene,PTFE,2.14,PTFE,,,,,,,,430.0,,,
+3M™ Dyneon™ PTFE,TF 1641,Polytetrafluoroethylene,PTFE,2.15,PTFE,,317.0,,,600.0,,,350.0,,,
+3M™ Dyneon™ PTFE,TF 5050 Z,Polytetrafluoroethylene,PTFE,1.5,PTFE,,,,,,,,,,,
+Teflon® PTFE,602 X,Polytetrafluoroethylene,PTFE,2.17,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,669N X,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,,,,
+Uniflon,GM 800,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,,,,55.0
+Uniflon,UNILUB 15,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+Supering,400 - GML,Polytetrafluoroethylene,PTFE,3.12,PTFE,,,,,,,,,,,65.0
+Fluorosite,600 - GMP,Polytetrafluoroethylene,PTFE,3.1,PTFE,,,,,,,,,,,65.0
+Fluoroplex,B 60 - GML,Polytetrafluoroethylene,PTFE,3.9,PTFE-Me60,,,,,,,,,,,69.0
+Fluoroplex,CG 25 - GMP,Polytetrafluoroethylene,PTFE,2.06,PTFE-CD25,,,,,,,,,,,64.0
+Fluoroplex,COMP 25 RJ - GMP,Polytetrafluoroethylene,PTFE,2.23,PTFE,,,,,,,,,,,61.0
+Fluoroplex,E 10 - GML,Polytetrafluoroethylene,PTFE,2.07,PTFE-PUF10,,,,,,,,,,,58.0
+Fluoroplex,F 15 - GML,Polytetrafluoroethylene,PTFE,2.2,PTFE-GF15,,,,,,,,,,,60.0
+Fluoroplex,GF 515 - GMA,Polytetrafluoroethylene,PTFE,2.2,PTFE-(CF+CD)20,,,,,,,,,,,61.0
+Fluoroplex,GF 515 - GML,Polytetrafluoroethylene,PTFE,2.2,PTFE-(CF+CD)20,,,,,,,,,,,61.0
+Fluoroplex,I 10 - GML,Polytetrafluoroethylene,PTFE,1.97,PTFE-PI10,,,,,,,,,,,59.0
+Fluoroplex,I 10 - GMP,Polytetrafluoroethylene,PTFE,1.97,PTFE-PI10,,,,,,,,,,,59.0
+Miflon®,2223B,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,200.0,,,
+Miflon®,3113,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3114,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3212,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3221,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,280.0,,,
+Miflon®,3224,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,250.0,,,
+Miflon®,3321,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,250.0,,,
+Miflon®,5222,Polytetrafluoroethylene,PTFE,1.5,PTFE,,,,,,,,,,,
+Chemraz,504,Polytetrafluoroethylene,PTFE,1.95,PTFE,,,,,,,,,,,
+Avalon,07,Polytetrafluoroethylene,PTFE,2.21,PTFE-L,,,,,,27.6,,320.0,,,
+Avalon,09,Polytetrafluoroethylene,PTFE,2.14,PTFE-CF,,,,,,17.9,,230.0,,,60.0
+Avalon,18,Polytetrafluoroethylene,PTFE,2.02,PTFE-CF,8.96,,,,,20.0,,280.0,,,60.0
+Avalon,56,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,500.0,,,
+Avalon,56 HP,Polytetrafluoroethylene,PTFE,2.17,PTFE,34.5,330.0,552.0,,,,450.0,,,,
+Avalon,69,Polytetrafluoroethylene,PTFE,1.9,PTFE-(CF+X),,,,,,,,300.0,,,
+Avalon,89,Polytetrafluoroethylene,PTFE,1.95,PTFE-(CF+X)-L,,,,,,15.2,,190.0,,,65.0
+Flontech®,FLON-0122-1,Polytetrafluoroethylene,PTFE,1.95,PTFE-NX20,,,,,,,,260.0,,,55.0
+Flontech®,FT-1-1,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,350.0,,,55.0
+Flontech®,FT-1-1F,Polytetrafluoroethylene,PTFE,,PTFE,,345.0,,,,,,,,,
+Flontech®,FT-1-1L,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,350.0,,,55.0
+Flontech®,FT-1-1T,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,280.0,,,55.0
+Flontech®,FT-1-3,Polytetrafluoroethylene,PTFE,2.17,PTFE,,,,,,,,290.0,,,55.0
+Flontech®,FT-1-BLU2-FM-1,Polytetrafluoroethylene,PTFE,2.19,PTFE-MD,,,,,,,,470.0,,,55.0
+Flontech®,FT-905-ST,Polytetrafluoroethylene,PTFE,,PTFE,,333.0,,,,,,,,,
+Flontech®,FT-BRR30-GRN-6,Polytetrafluoroethylene,PTFE,2.83,PTFE-(Me+MD)30,,,,,,,,290.0,,,59.0
+Flontech®,FT-BRR40-BLU-1,Polytetrafluoroethylene,PTFE,3.15,PTFE-(Me+MD)40,,,,,,,,280.0,,,62.0
+Flontech®,FT-CAF20-1,Polytetrafluoroethylene,PTFE,2.3,PTFE-MD20,,,,,,,,240.0,,,59.0
+Flontech®,FT-CF10-6,Polytetrafluoroethylene,PTFE,2.08,PTFE-CF10,,,,,,,,170.0,,,60.0
+Flontech®,FT-CF15-1,Polytetrafluoroethylene,PTFE,2.06,PTFE-GF15,,,,,,,,260.0,,,64.0
+Flontech®,FT-GL15-1,Polytetrafluoroethylene,PTFE,2.22,PTFE-GF15,,,,,,,,280.0,,,58.0
+Flontech®,FT-GL15-6,Polytetrafluoroethylene,PTFE,2.21,PTFE-GF15,,,,,,,,260.0,,,57.0
+Flontech®,FT-GL15-M5-3,Polytetrafluoroethylene,PTFE,2.28,PTFE-GF15-L,,,,,,,,220.0,,,58.0
+Flontech®,FT-GL15-NPA-6,Polytetrafluoroethylene,PTFE,2.24,PTFE-(GF+MD)15,,,,,,,,250.0,,,58.0
+Flontech®,FT-GL5-M5-6,Polytetrafluoroethylene,PTFE,3.18,PTFE-Me40-L,,,,,,,,200.0,,,63.0
+Flontech®,FT-GR10-6,Polytetrafluoroethylene,PTFE,2.17,PTFE-CD10,,,,,,,,180.0,,,56.0
+Flontech®,FT-PI20-1,Polytetrafluoroethylene,PTFE,1.91,PTFE-PI20,,,,,,,,210.0,,,61.0
+Flontech®,FT-STST50-1,Polytetrafluoroethylene,PTFE,3.35,PTFE-Me50,,,,,,,,230.0,,,62.0
+Flontech®,FT-WA15-1,Polytetrafluoroethylene,PTFE,2.27,PTFE-MD15,,,,,,,,230.0,,,60.0
+Chemfluor,PTFE Film,Polytetrafluoroethylene,PTFE,2.24,PTFE,,317.0,,,552.0,,,,18.627450980392158,,58.0
+Rulon®,1337,Polytetrafluoroethylene,PTFE,2.1,PTFE,,,,,,,,180.0,,,
+Rulon®,1410,Polytetrafluoroethylene,PTFE,2.19,PTFE,,,,,,,,210.0,,,
+Rulon®,488,Polytetrafluoroethylene,PTFE,2.24,PTFE-MD,,,,,,,,180.0,,,
+Rulon®,641,Polytetrafluoroethylene,PTFE,2.24,PTFE,,,,,,,,180.0,,,
+Rulon®,945,Polytetrafluoroethylene,PTFE,1.9,PTFE,,,,,,,,20.0,,,
+Rulon®,957,Polytetrafluoroethylene,PTFE,2.24,PTFE,,,,,,,,200.0,,,
+Rulon®,AR,Polytetrafluoroethylene,PTFE,2.21,PTFE,,,,,,,,180.0,,,
+Rulon®,J,Polytetrafluoroethylene,PTFE,1.95,PTFE,,,,,,,,180.0,,,
+Arlon®,25N,Polytetrafluoroethylene,PTFE,1.7,PTFE-(GF+MD),,,,208.0,,,,,,,
+Arlon®,AD300,Polytetrafluoroethylene,PTFE,2.4,PTFE-GF,,,3720.0,,4870.0,,,,,,
+Fluon®,PTFE CD123E,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,,,,
+Fluon®,PTFE G190,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,370.0,,,
+Fluon®,PTFE G192,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,360.0,,,
+Fluon®,PTFE G340,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,350.0,,,
+Fluon®,PTFE G350,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,350.0,,,
+Fluon®,PTFE PA1015Z,Polytetrafluoroethylene,PTFE,2.21,PTFE-GF15,,,,,,,,330.0,,,
+Fluon®,PTFE PB1202,Polytetrafluoroethylene,PTFE,2.24,PTFE-(CF+GF+X)20,,,,,,,,230.0,,,
+Fluon®,PTFE PB1211,Polytetrafluoroethylene,PTFE,2.28,PTFE-GF15-L,,,,,,,,270.0,,,
+Fluon®,PTFE RB1025S,Polytetrafluoroethylene,PTFE,2.22,PTFE-GF25,,,,,,,,270.0,,,
+Fluon®,PTFE RB1211,Polytetrafluoroethylene,PTFE,2.28,PTFE-GF15-L,,,,,,,,300.0,,,
+Fluon®,PTFE RB2015,Polytetrafluoroethylene,PTFE,2.13,PTFE-CF15,,,,,,,,260.0,,,
+Dynaglide®,DW 645,Polytetrafluoroethylene,PTFE,2.11,PTFE-X,,,,,,,,,,,
+DeWAL,DW 103,Polytetrafluoroethylene,PTFE,,PTFE-CF,,,,,,,,,,,
+DeWAL,DW 212,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+DeWAL,DW 224,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-111,Polytetrafluoroethylene,PTFE,1.52,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-210C,Polytetrafluoroethylene,PTFE,1.52,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE D-411,Polytetrafluoroethylene,PTFE,1.52,PTFE,,,,,,,,,,,
+POLYFLON™,PTFE F-104,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,400.0,,,
+POLYFLON™,PTFE M-17,Polytetrafluoroethylene,PTFE,2.15,PTFE,,,,,,,,390.0,,,
+POLYFLON™,PTFE M-392,Polytetrafluoroethylene,PTFE,2.14,PTFE,,,,,,,,330.0,,,
+3M™ PTFE Custom Compound,CC103,Polytetrafluoroethylene,PTFE,2.2,PTFE-GF15,,,,,,,,290.0,,,
+3M™ Dyneon™ TFM™,1705,Polytetrafluoroethylene,PTFE,2.16,PTFE,,317.0,,,650.0,,,450.0,,,
+3M™ Dyneon™ PTFE,TF 2053 Z,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,,,,
+Fluorosint®,207 PTFE,Polytetrafluoroethylene,PTFE,2.29,PTFE,,327.0,2410.0,14.0,1450.0,,4.0,50.0,5.196078431372549,50.0,
+Teflon® PTFE,605XT X,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,6CN X,Polytetrafluoroethylene,PTFE,2.18,PTFE,,327.0,,,,,,,,,
+Teflon® PTFE,807N X,Polytetrafluoroethylene,PTFE,2.16,PTFE,,327.0,,,,,,320.0,,,
+Teflon® PTFE,CFP 6000 X,Polytetrafluoroethylene,PTFE,2.18,PTFE,,325.0,,,,,,,,,
+Teflon® PTFE,NXT 75,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,600.0,,,
+Teflon® PTFE,NXT 85,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,450.0,,,
+Uniflon,COMP 30 VX - GMP,Polytetrafluoroethylene,PTFE,2.23,PTFE,,,,,,,,,,,61.0
+Uniflon,GM 530,Polytetrafluoroethylene,PTFE,2.14,PTFE,,,,,,,,,,,55.0
+Fluoroplex,CG 25 - GML,Polytetrafluoroethylene,PTFE,2.06,PTFE-CD25,,,,,,,,,,,64.0
+Fluoroplex,COMP 25 RJ - GML,Polytetrafluoroethylene,PTFE,2.23,PTFE,,,,,,,,,,,61.0
+Fluoroplex,F 15 - GMP,Polytetrafluoroethylene,PTFE,2.2,PTFE-GF15,,,,,,,,,,,60.0
+Fluoroplex,GF 313 - GML,Polytetrafluoroethylene,PTFE,2.16,PTFE-(CF+CD)15,,,,,,,,,,,62.0
+Fluoroplex,MAXSEAT MRNA - GMF,Polytetrafluoroethylene,PTFE,2.19,PTFE,,,,,,,,,,,64.0
+Fluoroplex,MB 555 - GML,Polytetrafluoroethylene,PTFE,3.75,PTFE-Me55-L,,,,,,,,,,,69.0
+Fluoroplex,MB 555 - GMP,Polytetrafluoroethylene,PTFE,3.75,PTFE-Me55-L,,,,,,,,,,,69.0
+Fluoroplex,R 25 - GMA,Polytetrafluoroethylene,PTFE,2.11,PTFE-CF25,,,,,,,,,,,63.0
+Fluoroplex,X 50 - GML,Polytetrafluoroethylene,PTFE,3.3,PTFE-Me50,,,,,,,,,,,68.0
+Miflon®,2444B,Polytetrafluoroethylene,PTFE,2.16,PTFE,,,,,,,,,,,
+Miflon®,3121,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,300.0,,,
+Miflon®,3231,Polytetrafluoroethylene,PTFE,2.12,PTFE,,322.0,,,,,,280.0,,,
+Miflon®,3313,Polytetrafluoroethylene,PTFE,,PTFE,,,,,,,,200.0,,,
+Arlon®,1000,Polytetrafluoroethylene + PI,PTFE+PI,1.3,(PTFE+PI),,343.0,4140.0,174.0,,96.5,,35.0,6.176470588235294,,88.0
+VESTAKEEP®,4000 FC30,Polyetheretherketone + PTFE,PEEK+PTFE,1.45,(PEEK+PTFE)-(CF+CD)-L,,340.0,10300.0,240.0,12500.0,160.0,,2.0,,,84.0
+perfluorence Tribocompound,CoPEEK+PTFEcg,Polyetheretherketone + PTFE,PEEK+PTFE,1.34,(PEEK+PTFE),,325.0,3150.0,123.0,3200.0,,5.0,9.0,,,
+Flontech®,FT-PK20-GR5-1,Polyetheretherketone + PTFE,PEEK+PTFE,1.93,(PEEK+PTFE)-CF5,,,,,,,,25.0,,,62.0
+VESTAKEEP®,2000 FC30,Polyetheretherketone + PTFE,PEEK+PTFE,1.45,(PEEK+PTFE)-CF-L,,340.0,,,12600.0,150.0,,2.0,,,
+Sciengy®,EK-SGC301E43,Polyetheretherketone + PTFE,PEEK+PTFE,1.45,(PEEK+PTFE)-CF30,,343.0,11000.0,230.0,14000.0,,,2.2,,,
+Sciengy®,EK-SG201RN,Polyetheretherketone + PTFE,PEEK+PTFE,1.4,(PEEK+PTFE),,343.0,3200.0,100.0,2900.0,,,25.0,,,
+Flontech®,FT-PPS15-CARR10-M2-2,Polytetrafluoroethylene + PPS,PTFE+PPS,1.88,(PTFE+PPS)-CF10-L,,,,,,,,160.0,,,65.0
+Sciengy®,ES-SG301E41,Polytetrafluoroethylene + PPS,PTFE+PPS,1.66,(PTFE+PPS)-GF30,,280.0,11000.0,210.0,,,,1.2,,,
+Sciengy®,ES-SG401E65,Polytetrafluoroethylene + PPS,PTFE+PPS,1.77,(PTFE+PPS)-GF40,,280.0,15000.0,240.0,,,,1.3,,,
+Sciengy®,ES-SGC101S21,Polytetrafluoroethylene + PPS,PTFE+PPS,1.6,(PTFE+PPS)-CF10,,280.0,14000.0,200.0,,,,1.2,,,
+Sciengy®,ES-SG301E43,Polytetrafluoroethylene + PPS,PTFE+PPS,1.69,(PTFE+PPS)-GF30,,280.0,10000.0,225.0,,,,1.2,,,
