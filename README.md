@@ -76,8 +76,6 @@ After comprehensive hyperparameter tuning and evaluation:
 
 - **XGBoost** achieved the highest accuracy (~97%) and was selected as the final model
 - **K-Nearest Neighbors** provided excellent performance with the fastest training time
-- **Random Forest** showed robust performance with good feature importance insights
-- **Logistic Regression** provided a solid baseline with interpretable results
 
 XGBoost was chosen as the final model due to its superior accuracy, while KNN offers an excellent alternative for applications requiring faster training times.
 
