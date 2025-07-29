@@ -154,7 +154,7 @@ The final XGBoost model was validated using external data from a polycarbonate m
 
 - Expand the dataset to include more polymer types
 - Incorporate additional material properties (thermal, electrical)
-- Develop a web application for real-time polymer classification
+- Attempt to classify with less features, so less tests need to be conducted before classification.
 - Implement deep learning approaches for comparison
 
 ## Author
